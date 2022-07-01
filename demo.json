@@ -2,23 +2,28 @@
 	"heading": "demodata",
 	"data": [{
 			"id": 1,
-			"name": "option 1",
-			"vote": 0
+			"name": "BJP",
+			"vote": 342
 		},
 		{
 			"id": 2,
-			"name": "option 2",
-			"vote": 5
+			"name": "INC",
+			"vote": 54
 		},
 		{
 			"id": 3,
-			"name": "option 3",
-			"vote": 20
+			"name": "AITC",
+			"vote": 32
 		},
 		{
 			"id": 4,
-			"name": "option 4",
-			"vote": 50
-		}
+			"name": "BSP",
+			"vote": 20
+		},
+		 {
+			"id": 4,
+			"name": "CPI",
+			"vote": 14
+		},
 	]
 }
