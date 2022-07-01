@@ -1,25 +1,24 @@
-{ 
-"heading" : "demodata" ,
-"data" :  [
-    {
-      "id": 1,
-      "name": "option 1",
-      "vote": 0,
-    },
-    {
-      "id": 2,
-      "name": "option 2",
-      "vote": 5,
-    },
-    {
-      "id": 3,
-      "name": "option 3",
-      "vote": 20,
-    },
-    {
-      "id": 4,
-      "name": "option 4",
-      "vote": 50,
-    },
-  ]
+{
+	"heading": "demodata",
+	"data": [{
+			"id": 1,
+			"name": "option 1",
+			"vote": 0
+		},
+		{
+			"id": 2,
+			"name": "option 2",
+			"vote": 5
+		},
+		{
+			"id": 3,
+			"name": "option 3",
+			"vote": 20
+		},
+		{
+			"id": 4,
+			"name": "option 4",
+			"vote": 50
+		}
+	]
 }
