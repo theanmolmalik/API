@@ -3,27 +3,27 @@
 	"data": [{
 			"id": 1,
 			"name": "BJP",
-			"vote": 342
+			"vote": 342,
 		},
 		{
 			"id": 2,
 			"name": "INC",
-			"vote": 54
+			"vote": 54,
 		},
 		{
 			"id": 3,
 			"name": "AITC",
-			"vote": 32
+			"vote": 32,
 		},
 		{
 			"id": 4,
 			"name": "BSP",
-			"vote": 20
+			"vote": 20,
 		},
 		 {
 			"id": 4,
 			"name": "CPI",
-			"vote": 14
+			"vote": 14,
 		},
 	]
 }
